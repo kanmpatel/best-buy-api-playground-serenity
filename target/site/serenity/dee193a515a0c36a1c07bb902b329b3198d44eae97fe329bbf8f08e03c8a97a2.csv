@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Services curd test","This is Created The New Services","SUCCESS","2022-06-05T13:13:42.258+01:00[Europe/London]","0.0","0.05"
+"Services curd test","This is get Services List by ID","SUCCESS","2022-06-05T13:13:42.311+01:00[Europe/London]","0.0","0.04"
+"Services curd test","This is Update The Services By ID","SUCCESS","2022-06-05T13:13:42.354+01:00[Europe/London]","0.0","0.04"
+"Services curd test","This is Delete The Services By ID","SUCCESS","2022-06-05T13:13:42.405+01:00[Europe/London]","0.0","0.03"

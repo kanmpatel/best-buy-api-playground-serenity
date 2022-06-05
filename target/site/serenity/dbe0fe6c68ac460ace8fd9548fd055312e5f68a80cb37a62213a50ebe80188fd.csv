@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores curd test","This is Created The New Store","SUCCESS","2022-06-05T13:13:41.510+01:00[Europe/London]","0.0","0.08"
+"Stores curd test","This is get Store List by ID","SUCCESS","2022-06-05T13:13:41.589+01:00[Europe/London]","0.0","0.09"
+"Stores curd test","This is Update The Store By ID","SUCCESS","2022-06-05T13:13:41.678+01:00[Europe/London]","0.0","0.09"
+"Stores curd test","This is Delete The Store By ID","SUCCESS","2022-06-05T13:13:41.769+01:00[Europe/London]","0.0","0.05"

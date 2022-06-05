@@ -1,0 +1,6 @@
+bestbuy\apiplaygroundinfo\products\ProductCurdTest.class
+bestbuy\apiplaygroundinfo\stores\StoresCurdTest.class
+bestbuy\testbase\TestBase.class
+bestbuy\apiplaygroundinfo\categories\CategoriesCurdTest.class
+bestbuy\apiplaygroundinfo\utitlies\UtilitesCurdTest.class
+bestbuy\apiplaygroundinfo\services\ServicesCurdTest.class

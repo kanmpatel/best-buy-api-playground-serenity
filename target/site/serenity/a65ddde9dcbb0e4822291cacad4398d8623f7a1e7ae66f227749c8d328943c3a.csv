@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories curd test","This is Created The New Categories","SUCCESS","2022-06-05T13:13:35.324+01:00[Europe/London]","0.0","4.69"
+"Categories curd test","This is get Product List by ID","SUCCESS","2022-06-05T13:13:40.048+01:00[Europe/London]","0.0","0.13"
+"Categories curd test","This is Update The Categories By ID","SUCCESS","2022-06-05T13:13:40.182+01:00[Europe/London]","0.0","0.11"
+"Categories curd test","This is Delete The Categories By ID","SUCCESS","2022-06-05T13:13:40.290+01:00[Europe/London]","0.0","0.37"
